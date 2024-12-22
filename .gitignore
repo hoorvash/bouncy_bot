@@ -1,0 +1,8 @@
+__pycache__/
+.pyc
+dance_env/
+env/
+.env
+app_old.py
+logs/
+videos/
