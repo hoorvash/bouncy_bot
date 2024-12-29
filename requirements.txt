@@ -12,3 +12,4 @@ python-dotenv
 pygame
 requests
 opencv-python
+pyAudioAnalysis
